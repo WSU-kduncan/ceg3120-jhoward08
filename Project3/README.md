@@ -162,7 +162,4 @@ end, then click "Allocate" at the bottom.
 ![createINST18](Pictures/aws_createINST18.jpeg)
 --------END RESULT--------
 ![createEND](Pictures/aws_createEND.jpeg)
-![createEND2](Pictures/aws_createEND2.jpeg)
-![createEND3](Pictures/aws_createEND3.jpeg)
-I have tried to ssh into my instance with no joy. I believe I am just doing it wrong so I have attached the pictures above.
-It is getting late and I have to get my kids to bed. Sorry about this last part.
+![createEND2](Pictures/aws_createEND4.jpeg)
