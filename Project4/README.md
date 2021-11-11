@@ -36,4 +36,8 @@ https://github.com/pattonsgirl/Fall2021-CEG3120/blob/main/Projects/Project4/cf-t
 7. Change the "Value" tag under the "Name" tag to reflect "CF Instance".
 * Below is what my file reflects:
 ![PublicUbuntuInstance](Pictures/PublicUbuntuInstance.jpg)
+--------------------------------
+8. Login to the instance after creation.
+* Below is the login to my instance from the cf-template.
+![Login](Pictures/Login.jpg)
 
